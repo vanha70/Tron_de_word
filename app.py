@@ -1,6 +1,6 @@
 """
 Trộn Đề Word Online - AIOMT Premium
-Streamlit App - Deploy miễn phí trên Streamlit Cloud
+Streamlit App - Deploy miễn phí trên Streamlit CloudF
 """
 
 import streamlit as st
@@ -699,7 +699,7 @@ def main():
         <p>© 2024 <strong>Nguyễn Văn Hà</strong> - <a href="https://aiomtpremium.com" target="_blank">AIOMT Premium</a></p>
         <p>
             <a href="https://facebook.com/nhphuclk" target="_blank">Facebook</a> • 
-            <a href="https://zalo.me/0985692879" target="_blank">Zalo: 0985692879</a>
+            <a href="https://zalo.me/0907781595" target="_blank">Zalo: 0907781595</a>
         </p>
     </div>
     """, unsafe_allow_html=True)
